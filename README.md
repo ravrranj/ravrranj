@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working in Prime Videos<br>Currently diving deep into Java 📚<br>Actively learning<br>🚀 Aspiring Developer | Lifelong Learner | Coding My Way Through the Future 🔭
+Working in Prime Videos<br>Currently diving deep into Java 📚<br>Actively learning<br>🚀 Aspiring BackEnd Developer | Lifelong Learner | Coding My Way Through the Future 🔭
 
 
 ## 🌐 Socials:
