@@ -1,6 +1,8 @@
 # 💫 About Me:
 Working in Prime Videos<br>Currently diving deep into Java 📚<br>Actively learning<br>🚀 Aspiring BackEnd Developer | Lifelong Learner | Coding My Way Through the Future 🔭
 
+Live By this quote "The people who make it aren’t the fastest — they’re the ones who don’t quit. ❤️💻🔥"
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itisravi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-ranjan-9a1136103) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Latter_Definition_99) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/roosterteethh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/raviranjansinh4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravidevilcool@gmail.com) 
