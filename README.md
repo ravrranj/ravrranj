@@ -1,7 +1,8 @@
 # 💫 About Me:
 Working in Prime Videos<br>Currently diving deep into Java 📚<br>Actively learning<br>🚀 Aspiring BackEnd Developer | Lifelong Learner | Coding My Way Through the Future 🔭
 
-Live By this quote "The people who make it aren’t the fastest — they’re the ones who don’t quit. ❤️💻🔥"
+
+✌️The people who make it aren’t the fastest — they’re the ones who don’t quit. ❤💻🔥
 
 
 ## 🌐 Socials:
